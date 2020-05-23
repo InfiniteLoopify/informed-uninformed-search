@@ -1,8 +1,3 @@
-
-# Umair Shahab
-# 17K-3726
-# Section A
-
 import queue
 from operator import itemgetter
 
